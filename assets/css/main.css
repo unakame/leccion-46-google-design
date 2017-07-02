@@ -143,5 +143,16 @@
 
   .column-lg-12 {
     width: 100%; } }
+/* COLORES */
+/* FONT SIZE*/
+/* BODY */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto"; }
+
+/* HEADER */
+
 
 /*# sourceMappingURL=main.css.map */
