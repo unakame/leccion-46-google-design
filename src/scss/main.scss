@@ -160,10 +160,25 @@ $margin-anchor: 5%;
    margin-left:$margin-anchor *10;
 }
 
+/* THIRD SECTION */
 .third-section{
   @extend .margin-global;
 }
 
 .container-images{
   margin-top:$margin-bottom-podcast*3;
+}
+
+.right{
+  margin-left: $margin-anchor+4;
+}
+
+.third-p{
+  @extend .spaced;
+  margin-top:$margin-bottom-podcast;
+}
+
+.div-2-right{
+  margin-left: $margin-anchor+48;
+  margin-top: -175px;
 }

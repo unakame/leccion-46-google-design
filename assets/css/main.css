@@ -187,7 +187,7 @@ div nav {
   margin-top: 100px;
   color: #414549; }
 
-.spaced {
+.spaced, .third-p {
   letter-spacing: 2px; }
 
 .podcast-h1 {
@@ -236,7 +236,18 @@ div nav {
 .gd-logo {
   margin-left: 50%; }
 
+/* THIRD SECTION */
 .container-images {
   margin-top: 69px; }
+
+.right {
+  margin-left: 9%; }
+
+.third-p {
+  margin-top: 23px; }
+
+.div-2-right {
+  margin-left: 53%;
+  margin-top: -175px; }
 
 /*# sourceMappingURL=main.css.map */
