@@ -161,6 +161,9 @@ $margin-anchor: 5%;
 }
 
 /* THIRD SECTION */
+
+$border: 50%;
+
 .third-section{
   @extend .margin-global;
   margin-bottom: $margin-bottom-podcast*4;
@@ -207,4 +210,13 @@ $margin-anchor: 5%;
 
 .fifth-section{
   @extend .margin-global;
+}
+
+.border{
+  border-radius:$border;
+}
+
+.container-text{
+  margin-top: -10%;
+  margin-left: 11%;
 }

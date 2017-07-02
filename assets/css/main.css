@@ -265,5 +265,11 @@ div nav {
 
 /* FOURTH SECTION*/
 /* FIFTH SECTION */
+.border {
+  border-radius: 50%; }
+
+.container-text {
+  margin-top: -10%;
+  margin-left: 11%; }
 
 /*# sourceMappingURL=main.css.map */
