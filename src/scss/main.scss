@@ -27,8 +27,11 @@ $blue : #4285f4;
 
 /* FONT SIZE*/
 
-$font-size-title: 42px;
 $font-size-li: 20px;
+
+/*PADDING*/
+
+$margin-google: 130px 120px 130px 20px;
 
 /* BODY */
 
@@ -47,7 +50,8 @@ header{
 
 .google{
    display: block;
-    margin: 0 auto;
+   margin: 0 auto;
+   margin-top: 3.6%;
 }
 
 a{
@@ -56,4 +60,23 @@ a{
 
 .li{
 	color: $gray-text;
+  font-weigth: bold;
+}
+
+/*Centrar nav*/
+nav{
+  ul{
+    li{
+      display: inline-block;
+      list-style-type: none;
+      margin:15px;
+      font-weight: 600;
+    }
+  }
+}
+
+div{
+  nav{
+    text-align: center;
+  }
 }

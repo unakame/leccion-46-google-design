@@ -145,6 +145,7 @@
     width: 100%; } }
 /* COLORES */
 /* FONT SIZE*/
+/*PADDING*/
 /* BODY */
 * {
   margin: 0;
@@ -158,12 +159,24 @@ header {
 
 .google {
   display: block;
-  margin: 0 auto; }
+  margin: 0 auto;
+  margin-top: 3.6%; }
 
 a {
   text-decoration: none; }
 
 .li {
-  color: #414549; }
+  color: #414549;
+  font-weigth: bold; }
+
+/*Centrar nav*/
+nav ul li {
+  display: inline-block;
+  list-style-type: none;
+  margin: 15px;
+  font-weight: 600; }
+
+div nav {
+  text-align: center; }
 
 /*# sourceMappingURL=main.css.map */
