@@ -182,3 +182,11 @@ $margin-anchor: 5%;
   margin-left: $margin-anchor+48;
   margin-top: -175px;
 }
+
+.blue-small{
+  color:$blue; 
+  background-color:$blue;
+  border-style:solid;
+  height:4px;
+  margin-top: -91%;
+}

@@ -250,4 +250,11 @@ div nav {
   margin-left: 53%;
   margin-top: -175px; }
 
+.blue-small {
+  color: #4285f4;
+  background-color: #4285f4;
+  border-style: solid;
+  height: 4px;
+  margin-top: -91%; }
+
 /*# sourceMappingURL=main.css.map */
