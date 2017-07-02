@@ -163,6 +163,7 @@ $margin-anchor: 5%;
 /* THIRD SECTION */
 .third-section{
   @extend .margin-global;
+  margin-bottom: $margin-bottom-podcast*4;
 }
 
 .container-images{
@@ -189,4 +190,15 @@ $margin-anchor: 5%;
   border-style:solid;
   height:4px;
   margin-top: -91%;
+}
+
+.blue-large2{
+  @extend .blue-large;
+  margin-top: 400px;
+}
+
+/* FOURTH SECTION*/
+
+.fourth-section{
+  @extend .margin-global;
 }

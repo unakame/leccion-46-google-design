@@ -179,7 +179,7 @@ div nav {
   text-align: center; }
 
 /* SECTION PODCAST*/
-.margin-global, .podcast, .blue-large, .newsfeed, .third-section {
+.margin-global, .podcast, .blue-large, .blue-large2, .newsfeed, .third-section, .fourth-section {
   margin-left: 65px;
   margin-right: 65px; }
 
@@ -203,7 +203,7 @@ div nav {
   margin-bottom: 92px; }
 
 /* HR BLUE LARGE */
-.blue-large {
+.blue-large, .blue-large2 {
   color: #4285f4;
   background-color: #4285f4;
   border-style: solid;
@@ -237,6 +237,9 @@ div nav {
   margin-left: 50%; }
 
 /* THIRD SECTION */
+.third-section {
+  margin-bottom: 92px; }
+
 .container-images {
   margin-top: 69px; }
 
@@ -256,5 +259,10 @@ div nav {
   border-style: solid;
   height: 4px;
   margin-top: -91%; }
+
+.blue-large2 {
+  margin-top: 400px; }
+
+/* FOURTH SECTION*/
 
 /*# sourceMappingURL=main.css.map */
