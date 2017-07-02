@@ -210,5 +210,21 @@ div nav {
   height: 4px; }
 
 /* NEWSFEED */
+.title-1 {
+  color: #414549;
+  margin-bottom: 23px;
+  margin-top: 38px; }
+
+.date-1 {
+  color: #414549;
+  font-family: 'Roboto mono';
+  margin-bottom: 10px; }
+
+.div2 {
+  margin-left: 51%;
+  margin-top: -41%; }
+
+.p-2 {
+  margin-bottom: 40px; }
 
 /*# sourceMappingURL=main.css.map */

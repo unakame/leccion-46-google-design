@@ -122,6 +122,31 @@ $margin-bottom-podcast: 23px;
 
 /* NEWSFEED */
 
+
 .newsfeed{
   @extend .margin-global;
 }
+
+.title-1{
+  color: $gray-text;
+  margin-bottom: $margin-bottom-podcast;
+  margin-top: $margin-bottom-podcast + 15;
+}
+
+$margin-bottom-date: 10px;
+
+.date-1{
+  color: $gray-text;
+  font-family: 'Roboto mono';
+  margin-bottom: $margin-bottom-date;
+}
+
+.div2{
+  margin-left: 51%;
+  margin-top: -41%;
+}
+
+.p-2{
+  margin-bottom: 40px;
+}
+
