@@ -210,6 +210,9 @@ div nav {
   height: 4px; }
 
 /* NEWSFEED */
+.newsfeed {
+  margin-bottom: 92px; }
+
 .title-1 {
   color: #414549;
   margin-bottom: 23px;
@@ -226,5 +229,11 @@ div nav {
 
 .p-2 {
   margin-bottom: 40px; }
+
+.anchor-image {
+  margin-left: 5%; }
+
+.gd-logo {
+  margin-left: 50%; }
 
 /*# sourceMappingURL=main.css.map */
