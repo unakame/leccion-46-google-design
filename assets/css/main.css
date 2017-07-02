@@ -179,7 +179,7 @@ div nav {
   text-align: center; }
 
 /* SECTION PODCAST*/
-.margin-global, .podcast, .blue-large, .newsfeed {
+.margin-global, .podcast, .blue-large, .newsfeed, .third-section {
   margin-left: 65px;
   margin-right: 65px; }
 
@@ -235,5 +235,8 @@ div nav {
 
 .gd-logo {
   margin-left: 50%; }
+
+.container-images {
+  margin-top: 69px; }
 
 /*# sourceMappingURL=main.css.map */

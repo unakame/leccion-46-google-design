@@ -159,3 +159,11 @@ $margin-anchor: 5%;
 .gd-logo{
    margin-left:$margin-anchor *10;
 }
+
+.third-section{
+  @extend .margin-global;
+}
+
+.container-images{
+  margin-top:$margin-bottom-podcast*3;
+}
