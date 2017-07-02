@@ -153,6 +153,17 @@
   font-family: "Roboto"; }
 
 /* HEADER */
+header {
+  width: 100%; }
 
+.google {
+  display: block;
+  margin: 0 auto; }
+
+a {
+  text-decoration: none; }
+
+.li {
+  color: #414549; }
 
 /*# sourceMappingURL=main.css.map */

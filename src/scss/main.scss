@@ -27,7 +27,7 @@ $blue : #4285f4;
 
 /* FONT SIZE*/
 
-$font-size-title: 30px;
+$font-size-title: 42px;
 $font-size-li: 20px;
 
 /* BODY */
@@ -41,3 +41,19 @@ $font-size-li: 20px;
 
 /* HEADER */
 
+header{
+   width: 100%;
+}
+
+.google{
+   display: block;
+    margin: 0 auto;
+}
+
+a{
+	text-decoration: none;
+}
+
+.li{
+	color: $gray-text;
+}
