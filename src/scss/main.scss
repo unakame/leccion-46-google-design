@@ -29,10 +29,6 @@ $blue : #4285f4;
 
 $font-size-li: 20px;
 
-/*PADDING*/
-
-$margin-google: 130px 120px 130px 20px;
-
 /* BODY */
 
 *{
@@ -84,11 +80,13 @@ div{
 /* SECTION PODCAST*/
 
 $margin-bottom-podcast: 23px;
-
-.podcast{
-  margin-top: 100px;
+.margin-global{
   margin-left:65px;
   margin-right:65px;
+}
+.podcast{
+  @extend .margin-global;
+  margin-top: 100px;
   color: $gray-text;
 }
 
@@ -115,17 +113,15 @@ $margin-bottom-podcast: 23px;
 /* HR BLUE LARGE */
 
 .blue-large{
+  @extend .margin-global;
   color:$blue; 
   background-color:$blue;
   border-style:solid;
-  margin-left:65px;
-  margin-right:65px;
   height:4px;
 }
 
 /* NEWSFEED */
 
 .newsfeed{
-  margin-left:65px;
-  margin-right:65px;
+  @extend .margin-global;
 }
