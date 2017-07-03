@@ -179,7 +179,7 @@ div nav {
   text-align: center; }
 
 /* SECTION PODCAST*/
-.margin-global, .podcast, .blue-large, .blue-large2, .newsfeed, .third-section, .fourth-section, .fifth-section, .sixth-section, .seventh-section {
+.margin-global, .podcast, .blue-large, .blue-large2, .newsfeed, .third-section, .fourth-section, .fifth-section, .sixth-section, .seventh-section, footer {
   margin-left: 65px;
   margin-right: 65px; }
 
@@ -305,5 +305,8 @@ div nav {
   margin-left: 70%; }
 
 /*SEVENTH SECTION*/
+/* FOOTER */
+li {
+  display: inline-block; }
 
 /*# sourceMappingURL=main.css.map */

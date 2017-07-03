@@ -264,3 +264,13 @@ $border: 50%;
 .seventh-section{
   @extend .margin-global;
 }
+
+/* FOOTER */
+
+footer{
+  @extend .margin-global;
+}
+
+li{
+  display: inline-block;
+}
