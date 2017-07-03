@@ -286,12 +286,22 @@ div nav {
   height: 40%; }
 
 .design {
-  content: url("../../images/design.png"); }
+  content: url("../../images/design.png");
+  margin: 15px; }
 
 .galler {
-  content: url("../../images/galler.png"); }
+  content: url("../../images/galler.png");
+  margin: 15px; }
 
 .method-podcast {
-  content: url("../../images/method-podcast.png"); }
+  content: url("../../images/method-podcast.png");
+  margin: 15px; }
+
+.text-middle, .text-right {
+  margin-top: -7%;
+  margin-left: 35%; }
+
+.text-right {
+  margin-left: 70%; }
 
 /*# sourceMappingURL=main.css.map */

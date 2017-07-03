@@ -244,5 +244,17 @@ $border: 50%;
 @each $image in design, galler, method-podcast, {
   .#{$image} {
     content: url('../../images/#{$image}.png');
+    margin: 15px;
   }
+}
+
+
+.text-middle{
+  margin-top: -7%;
+  margin-left: 35%;
+}
+
+.text-right{
+  @extend .text-middle;
+  margin-left: 70%;
 }
