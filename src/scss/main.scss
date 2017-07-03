@@ -235,3 +235,14 @@ $border: 50%;
 .sixth-section{
   @extend .margin-global;
 }
+
+.size-img-6{
+  width: 40%;
+  height: 40%;
+}
+
+@each $image in method, design, galler, {
+  .#{$image} {
+    background-image: url('../../images/#{$image}.png');
+  }
+}
