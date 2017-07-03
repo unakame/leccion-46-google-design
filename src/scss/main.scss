@@ -220,3 +220,18 @@ $border: 50%;
   margin-top: -10%;
   margin-left: 11%;
 }
+
+.volumen{
+  margin-top: -16%;
+  margin-left: 54.5%
+}
+
+.container-text-volumen{
+   margin-top: 0;
+  margin-left: 54.5%
+}
+
+/* SIXTH SECTION */
+.sixth-section{
+  @extend .margin-global;
+}
