@@ -179,7 +179,7 @@ div nav {
   text-align: center; }
 
 /* SECTION PODCAST*/
-.margin-global, .podcast, .blue-large, .blue-large2, .newsfeed, .third-section, .fourth-section, .fifth-section, .sixth-section {
+.margin-global, .podcast, .blue-large, .blue-large2, .newsfeed, .third-section, .fourth-section, .fifth-section, .sixth-section, .seventh-section {
   margin-left: 65px;
   margin-right: 65px; }
 
@@ -303,5 +303,7 @@ div nav {
 
 .text-right {
   margin-left: 70%; }
+
+/*SEVENTH SECTION*/
 
 /*# sourceMappingURL=main.css.map */
