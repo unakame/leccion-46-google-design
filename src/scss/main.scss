@@ -241,8 +241,8 @@ $border: 50%;
   height: 40%;
 }
 
-@each $image in method, design, galler, {
+@each $image in design, galler, method-podcast, {
   .#{$image} {
-    background-image: url('../../images/#{$image}.png');
+    content: url('../../images/#{$image}.png');
   }
 }

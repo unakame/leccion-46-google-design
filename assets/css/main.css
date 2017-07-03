@@ -285,13 +285,13 @@ div nav {
   width: 40%;
   height: 40%; }
 
-.method {
-  background-image: url('../../images/method.png'); }
-
 .design {
-  background-image: url("../../images/design.png"); }
+  content: url("../../images/design.png"); }
 
 .galler {
-  background-image: url("../../images/galler.png"); }
+  content: url("../../images/galler.png"); }
+
+.method-podcast {
+  content: url("../../images/method-podcast.png"); }
 
 /*# sourceMappingURL=main.css.map */
